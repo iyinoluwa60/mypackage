@@ -1,5 +1,5 @@
 # MyPackage
-This package was created as an example of how to your own Python package
+This package was created with Visual Studio Code on how to use your own Python package
 
 # How to install
 ...
